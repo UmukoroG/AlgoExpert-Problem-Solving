@@ -1,2 +1,0 @@
-s="raceacar"
-print(s[::-1])
