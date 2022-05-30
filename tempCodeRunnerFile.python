@@ -1,3 +1,0 @@
-inter=[1,2]
-interval=[inter[0]]
-print(interval)
